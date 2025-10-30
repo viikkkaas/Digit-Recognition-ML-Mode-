@@ -86,6 +86,3 @@ Experiment with custom handwritten datasets for better generalization.
 
 Vikas Patil
 mail: vikas.p.2706@gmail.com
-
-🌐 LinkedIn
- | GitHub
